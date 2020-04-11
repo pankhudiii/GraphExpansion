@@ -1,5 +1,4 @@
 package ads;
-
 import java.util.*;
 import java.util.Scanner;
 import java.util.Stack;
